@@ -1,0 +1,45 @@
+.main{
+  box-sizing: border-box;
+  height: 99vh;
+  width: 98.7vw;
+  background: url('./../../images/stars.svg') , #1B1B25;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.main
+.platzi_conf
+.section__platzi_h2,
+.main
+.platzi_conf
+.section__plazti_p {
+  color: white;
+}
+
+.main
+.platzi_conf
+.section__platzi_h2 {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 25px;
+  font-weight: bold;
+}
+
+.main
+.platzi_conf
+.section__link_badge
+button{
+  background-color: rgb(125 205 64);
+  color: white;
+  padding: 8px 60px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+
+.main
+section
+img{
+  width: 85%;
+}

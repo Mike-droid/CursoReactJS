@@ -1,0 +1,35 @@
+.Badges__list
+.Badges__container
+.list-unstyled
+.badges-item {
+  box-shadow: 0 7px 10px 1px #adb5bd;
+  margin: 15px 0;
+  border-radius: 10px;
+}
+
+.badges-item {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: white;
+}
+
+.badges-item
+.badges-img-section
+.avatar-img{
+  border-radius: 50%;
+  margin-top: 5px;
+}
+
+.badges-info
+.badges-twitter
+span{
+  color: rgb(30 160 248);
+  margin-left: 5px;
+}
+
+.badges-info
+.badges-twitter
+.twitter-image{
+  width: 20px;
+}
